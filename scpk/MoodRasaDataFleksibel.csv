@@ -1,0 +1,557 @@
+Nama,Kategori,Harga,Waktu_Makan,Lokasi,Deskripsi,Rating,Waktu_Persiapan,Popularitas,Ketersediaan
+Jus Pir,Manis,20000,Semua,Riau,Jus buah pir  manis dan kaya serat.,4,5,750,88
+Jus Anggur,Manis,25000,Semua,Riau,Jus buah anggur  manis dan menyegarkan.,4.2,5,800,89
+Jus Belimbing,Manis,18000,Semua,Riau,Jus buah belimbing  manis dan sedikit asam.,3.9,5,700,85
+Jus Sirsak,Manis,22000,Semua,Riau,Jus buah sirsak  manis asam dan creamy.,4.3,5,820,90
+Jus Sirsak Nata de Coco,Manis,25000,Semua,Riau,Jus sirsak dengan tambahan nata de coco,4.4,8,850,91
+Es Cincau Hitam,Manis,12000,Semua,Riau,Minuman segar dari cincau hitam dengan santan dan gula merah.,4,5,780,89
+Es Kacang Hijau,Manis,15000,Semua,Riau,Minuman segar dari kacang hijau rebus santan dan gula.,4.1,10,800,90
+Es Dawet,Manis,10000,Semua,Jawa Tengah,Minuman segar dari cendol hijau snatan dan gula merah,4.2,8,850,92
+Es Cendol,Manis,10000,Semua,Jawa Barat,Minuman segar dengan cendol,4.3,8,870,93
+Es Sarang Burung,Manis,18000,Semua,Riau,Es serut dengan agar-agar yang dibentuk seperti sarang burung,4.1,10,750,88
+Es Teler Jumbo,Manis,30000,Semua,Jakarta,Es teler dengan porsi lebih besar dan isian melimpah.,4.7,10,960,98
+Es Oyen,Manis,20000,Semua,Jawa Barat,Mirip es campur dengan alpukat,4.4,8,880,92
+Es Doger,Manis,15000,Semua,Jawa Barat,Es krim tradisional dari santan dengan roti tawar,4.2,10,800,90
+Es Goyobod,Manis,15000,Semua,Jawa Barat,Es campur dengan agar-agar,4.1,10,750,88
+Es Podeng,Manis,18000,Semua,Jakarta,Es puter dengan roti tawar,4.3,10,820,90
+Es Shanghai,Manis,20000,Semua,Riau,Es campur dengan aneka buah,4.2,10,780,89
+Es Gempol Pleret,Manis,15000,Semua,Jawa Tengah,Minuman segar dari gempol (bulatan nasi) dan pleret (cendol pink),4,10,700,85
+Es Campur Buah,Manis,25000,Semua,Riau,Es campur dengan dominasi buah-buahan segar.,4.5,8,900,94
+Es Campur Cincau,Manis,18000,Semua,Riau,Es campur dengan banyak cincau hitam dan hijau.,4.3,8,850,91
+Es Timun Suri,Manis,15000,Semua,Riau,Minuman segar dari timun suri  manis dan sangat menyegarkan.,4.1,5,780,89
+Wedang Jahe Susu,Manis,15000,Semua,Riau,Minuman jahe hangat dengan tambahan susu  creamy dan pedas.,4.4,5,880,92
+Wedang Ronde Kuah Kacang,Manis,18000,Camilan,DIY Yogyakarta,Ronde dengan kuah kacang hangat,4.3,15,800,88
+Sekoteng,Manis,15000,Camilan,Riau,Minuman jahe hangat dengan roti tawar,4.2,10,750,87
+Bandrek,Manis,15000,Semua,Jawa Barat,Minuman tradisional hangat dari jahe dan rempah,4.3,10,800,89
+Bajigur,Manis,15000,Semua,Jawa Barat,Minuman tradisional hangat dari santan,4.2,10,780,88
+Kopi Joss,Pahit,15000,Semua,DIY Yogyakarta,Kopi arang khas Jogja,4.5,5,900,93
+Kopi Luwak,Pahit,50000,Semua,Riau,Kopi dari biji kopi yang dicerna luwak,4,10,700,70
+Teh Poci,Manis,10000,Semua,Jawa Tengah,Teh yang diseduh dalam poci tanah liat,4.1,5,800,90
+Bir Pletok,Manis,18000,Semua,Jakarta,Minuman tradisional Betawi non-alkohol dari rempah-rempah.,4,10,750,85
+Jamu Kunyit Asam,Asam,10000,Semua,Jawa Tengah,Minuman tradisional sehat dari kunyit dan asam jawa,4.2,5,850,92
+Jamu Beras Kencur,Manis,10000,Semua,Jawa Tengah,Minuman tradisional sehat dari beras dan kencur,4.1,5,800,90
+Jamu Temulawak,Pahit,10000,Semua,Jawa Tengah,Minuman tradisional sehat dari temulawak,3.8,5,700,85
+Jamu Pahitan,Pahit,8000,Semua,Jawa Tengah,Jawa Tengah,3.5,5,600,70
+Wedang Uwuh,Manis,15000,Semua,DIY Yogyakarta,Minuman hangat dari rempah-rempah kering,4.5,10,900,93
+Dawet Ireng,Manis,12000,Semua,Jawa Tengah,Dawet dengan warna hitam dari abu merang,4.1,8,780,89
+Es Kopyor,Manis,25000,Semua,DIY Yogyakarta,Minuman segar dari kelapa kopyor,4.6,5,900,94
+Kue Ape Hijau,Manis,7000,Camilan,Jakarta,Kue ape dengan pewarna alami dari pandan,4,10,700,86
+Kue Mangkok,Manis,8000,Camilan,DIY Yogyakarta,Kue kukus berbentuk mangkok,4.1,20,750,88
+Kue Putu Ayu,Manis,8000,Camilan,DIY Yogyakarta,Kue putu dengan warna hijau dari pandan dan kelapa parut.,4.2,15,800,90
+Bolu Karamel,Manis,25000,Camilan,DIY Yogyakarta,Bolu dengan rasa karamel,4.4,30,880,92
+Kue Bikang,Manis,9000,Camilan,Jawa Timur,Kue dari tepung beras dan santan,4,20,700,85
+Kue Nagasari,Manis,9000,Camilan,Jawa Tengah,Kue dari tepung beras,4.1,25,750,88
+Kue Talam,Manis,8000,Camilan,DIY Yogyakarta,Kue kukus lapis dari tepung beras dan santan,4,20,720,87
+Kue Cucur,Manis,7000,Camilan,Jakarta,Kue goreng berbentuk bulat dengan pinggiran berserat,4,15,700,85
+Kue Lapis Beras,Manis,15000,Camilan,Riau,Kue lapis dari tepung beras,4.1,30,780,89
+Kue Lumpur,Manis,10000,Camilan,Riau,Kue lembut dengan bahan dasar kentang atau labu,4.2,20,800,90
+Kue Serabi,Manis,8000,Camilan,Riau,Pancake beras tradisional,4.3,15,850,91
+Kue Lupis,Manis,8000,Camilan,Riau,Ketan yang dibungkus daun pisang,4.1,20,780,89
+Kue Getuk Lindri,Manis,10000,Camilan,Jawa Tengah,Getuk singkong dengan warna-warni,4,15,750,88
+Kue Cenil,Manis,8000,Camilan,Jawa Tengah,Kue kecil dari tepung kanji,3.9,10,700,85
+Kue Klepon,Manis,8000,Camilan,Jawa Tengah,Bola ketan berisi gula merah cair,4.3,10,900,94
+Kue Mata Roda,Manis,10000,Camilan,Jawa Tengah,Kue singkong dengan isian pisang,4,20,720,87
+Kue Awug,Manis,9000,Camilan,Jawa Barat,Kue singkong kukus dengan gula merah di tengahnya.,3.9,15,680,82
+Kue Ongol-ongol,Manis,8000,Camilan,Jawa Barat,Kue kenyal dari sagu aren,3.8,10,650,80
+Kue Bugis,Manis,9000,Camilan,Sulawesi Selatan,Kue ketan dengan isian kelapa parut dan gula merah,4,20,750,88
+Kue Buras,Gurih/Umami,15000,Sarapan,Sulawesi Selatan,Ketupat santan yang direbus,4.1,60,700,85
+Coto Makassar Ayam,Gurih/Umami,35000,Sarapan,Sulawesi Selatan,Coto Makassar dengan daging ayam sebagai isiannya,4,30,800,88
+Sop Saudara,Gurih/Umami,38000,Makan Siang,Sulawesi Selatan,Sup daging sapi berkuah kental khas Makassar,4.5,30,890,93
+Pallubasa Buntel,Gurih/Umami,45000,Makan Siang,Sulawesi Selatan,Pallubasa dengan isian buntel (usus) sapi,4.3,40,850,90
+Es Pisang Ijo,Manis,20000,Semua,Sulawesi Selatan,Pisang yang dibungkus adonan hijau,4.6,15,950,97
+Pisang Epe,Manis,15000,Camilan,Sulawesi Selatan,Pisang bakar yang dipipihkan,4.2,10,780,89
+Konro Rica,Pedas,60000,Makan Malam,Sulawesi Selatan,Iga konro yang dimasak dengan bumbu rica-rica pedas.,4.8,45,960,98
+Mie Pangsit Makassar,Gurih/Umami,28000,Makan Siang,Sulawesi Selatan,Mie pangsit dengan topping ayam dan kuah khas Makassar.,4.4,20,870,91
+Barongko,Manis,12000,Camilan,Sulawesi Selatan,Kue pisang yang dikukus dalam daun pisang,4.1,25,750,88
+Kue Cucur Pandan,Manis,7000,Camilan,Jakarta,Kue cucur dengan aroma dan warna hijau pandan.,4,15,720,86
+Kue Wajik Pandan,Manis,18000,Camilan,Jakarta,Wajik dengan aroma dan warna hijau pandan.,4.1,25,750,88
+Kue Nagasari Pandan,Manis,9000,Camilan,Jakarta,Nagasari dengan aroma dan warna hijau pandan.,4,25,700,87
+Kue Klepon Pandan,Manis,8000,Camilan,Jakarta,Klepon dengan aroma dan warna hijau pandan,4.3,10,900,94
+Kue Putu Mayang,Manis,10000,Camilan,Jawa Barat,Kue berbentuk seperti mi,4.2,20,780,89
+Kue Rangi Kelapa,Manis,8000,Camilan,Jakarta,Kue rangi dengan dominasi rasa kelapa.,3.8,15,650,80
+Kue Pancong Keju,Manis,15000,Camilan,Jakarta,Kue pancong dengan taburan keju,4.2,15,800,90
+Kue Cubit Cokelat,Manis,12000,Camilan,Jakarta,Kue cubit dengan topping cokelat.,4.3,10,850,91
+Kue Cubit Green Tea,Manis,15000,Camilan,Jakarta,Kue cubit dengan rasa green tea,4.2,10,800,89
+Kue Ape Cokelat,Manis,9000,Camilan,Jakarta,Kue ape dengan taburan cokelat.,4.1,10,750,88
+Kue Ape Keju,Manis,10000,Camilan,Jakarta,Kue ape dengan taburan keju.,4.1,10,780,89
+Es Lilin,Manis,5000,Semua,Jakarta,Es krim beku dalam plastik,3.9,5,700,85
+Es Balok,Manis,3000,Semua,Jakarta,Es batu besar yang diserut dan disiram sirup.,3.5,2,600,70
+Es Krim Puter,Manis,18000,Semua,Jawa Tengah,Es krim tradisional yang diputar,4.3,10,800,90
+Es Krim Dong-dong,Manis,10000,Semua,Jawa Tengah,Es krim dalam roti tawar,4,5,750,88
+Roti Cane,Gurih/Umami,18000,Semua,Aceh,Roti pipih India yang renyah,4.5,15,880,92
+Martabak Mesir,Gurih/Umami,40000,Makan Malam,Sumatera Barat,Martabak telur dengan isian daging dan kuah kari,4.6,20,900,94
+Sate Padang Komplit,Pedas,45000,Makan Malam,Sumatera Barat,Sate Padang dengan semua jenis daging,4.8,30,950,97
+Rendang Daging,Gurih/Umami,50000,Makan Malam,Sumatera Barat,Olahan daging sapi dengan bumbu rempah khas Padang,4.9,240,1000,100
+Rendang Ayam,Gurih/Umami,40000,Makan Malam,Sumatera Barat,Olahan ayam dengan bumbu rempah rendang,4.7,90,950,97
+Rendang Telur,Gurih/Umami,30000,Makan Siang,Sumatera Barat,Telur rebus yang dimasak dengan bumbu rendang.,4.5,60,880,92
+Rendang Jengkol,Gurih/Umami,35000,Makan Siang,Sumatera Barat,Jengkol yang dimasak rendang,4.6,120,900,93
+Dendeng Balado,Pedas,45000,Makan Siang,Sumatera Barat,Daging sapi iris tipis yang digoreng,4.7,30,930,96
+Balado Terong,Pedas,20000,Makan Siang,Sumatera Barat,Terong yang dimasak dengan sambal balado pedas.,4.3,15,800,88
+Balado Kentang,Pedas,20000,Makan Siang,Sumatera Barat,Kentang goreng yang dimasak dengan sambal balado pedas.,4.4,15,820,89
+Balado Telur,Pedas,18000,Makan Siang,Sumatera Barat,Telur rebus yang dimasak dengan sambal balado pedas.,4.2,15,780,87
+Sambalado Tanak,Pedas,25000,Makan Siang,Sumatera Barat,Sambalado yang dimasak dengan santan,4.5,20,850,90
+Gulai Cincang,Gurih/Umami,45000,Makan Siang,Sumatera Barat,Daging sapi cincang yang dimasak gulai,4.6,35,890,93
+Gulai Itik,Gurih/Umami,50000,Makan Malam,Sumatera Barat,Daging itik yang dimasak gulai,4.7,40,900,94
+Kalio Daging,Gurih/Umami,48000,Makan Siang,Sumatera Barat,Mirip rendang namun kuahnya lebih basah dan kental.,4.7,180,930,96
+Ayam Pop,Gurih/Umami,35000,Makan Siang,Sumatera Barat,Ayam goreng tanpa kulit,4.6,30,900,94
+Gulai Tunjang,Gurih/Umami,40000,Makan Siang,Sumatera Barat,Gulai dari kaki sapi (tunjang),4.7,35,920,95
+Anyang Pucuk Ubi,Gurih/Umami,20000,Makan Siang,Sumatera Barat,Salad daun singkong dengan bumbu kelapa dan rempah,4,15,750,88
+Pangek Masin,Asam,35000,Makan Siang,Sumatera Barat,Ikan berkuah asam pedas dari ikan gabus atau ikan asin,4.3,25,800,89
+Lamang Tapai,Manis,25000,Camilan,Sumatera Barat,Ketan bakar dalam bambu,4.5,60,850,90
+Bika Ambon,Manis,30000,Camilan,Sumatera Utara,Kue bertekstur sarang lebah,4.6,40,900,94
+Bolu Gulung Medan,Manis,35000,Camilan,Sumatera Utara,Bolu gulung dengan berbagai isian,4.7,30,920,95
+Arsik Ikan Mas,Pedas,40000,Makan Siang,Sumatera Utara,Ikan mas yang dimasak dengan bumbu arsik khas Batak,4.8,40,950,97
+Saksang,Pedas,45000,Makan Malam,Sumatera Utara,Daging babi atau anjing yang dimasak dengan darah dan rempah,3,40,500,60
+Dengke Naniura,Asam,35000,Makan Siang,Sumatera Utara,Ikan mentah yang dimarinasi jeruk nipis dan rempah,4,20,700,80
+Mi Gomak,Gurih/Umami,28000,Makan Siang,Sumatera Utara,Mi kuning tebal dengan kuah atau goreng,4.3,20,800,89
+Lappet,Manis,10000,Camilan,Sumatera Utara,Kue beras ketan berbentuk piramida,3.9,20,680,82
+Ombus-ombus,Manis,9000,Camilan,Sumatera Utara,Kue beras ketan dengan isian gula merah,4,15,700,85
+Nasi Babi Panggang,Gurih/Umami,50000,Makan Malam,Sumatera Utara,Nasi dengan daging babi panggang khas Batak,4.5,40,880,90
+Lemang Tapai,Manis,25000,Camilan,Sumatera Barat,Ketan bakar dalam bambu,4.5,60,850,90
+Gulai Belut,Gurih/Umami,35000,Makan Siang,Kepulauan Riau,Belut yang dimasak gulai,4,25,700,80
+Gulai Pakis,Gurih/Umami,20000,Makan Siang,Kepulauan Riau,Pakis (daun paku) yang dimasak gulai,4.2,15,780,87
+Rendang Paru,Gurih/Umami,40000,Makan Siang,Sumatera Barat,Paru sapi yang dimasak rendang,4.5,120,880,92
+Dendeng Batokok,Pedas,45000,Makan Siang,Sumatera Barat,Dendeng sapi yang dipukul hingga empuk,4.7,30,920,95
+Sambal Lado Mudo,Pedas,10000,Semua,Sumatera Barat,Sambal hijau khas Padang,4.7,5,950,97
+Nasi Kapau,Gurih/Umami,35000,Makan Siang,Sumatera Barat,Nasi dengan aneka lauk pauk khas Kapau,4.6,10,900,93
+Bubur Kampiun,Manis,20000,Sarapan,Sumatera Barat,Bubur campur dengan berbagai jenis bubur manis,4.5,15,880,92
+Sate Padang Pariaman Kuah Hitam,Pedas,38000,Makan Malam,Sumatera Barat,Sate Padang dengan kuah hitam dari keluak,4.7,30,930,96
+Martabak Kubang,Gurih/Umami,40000,Makan Malam,Sumatera Barat,Martabak telur dengan isian daging dan kuah kari,4.6,20,900,94
+Pempek Lenjer,Asin,20000,Camilan,Sumatera Selatan,Pempek berbentuk panjang,4.5,20,900,93
+Pempek Adaan,Asin,20000,Camilan,Sumatera Selatan,Pempek berbentuk bulat,4.6,20,920,95
+Pempek Kulit,Asin,18000,Camilan,Sumatera Selatan,Pempek dari kulit ikan,4.4,15,880,92
+Pempek Kapal Selam Besar,Asin,35000,Camilan,Sumatera Selatan,Pempek kapal selam ukuran besar,4.8,25,970,98
+Tekwan Besar,Asin,30000,Makan Siang,Sumatera Selatan,Tekwan dengan porsi lebih besar,4.3,25,800,88
+Model Besar,Asin,28000,Makan Siang,Sumatera Selatan,Model dengan porsi lebih besar,4.1,25,780,86
+Martabak Har,Gurih/Umami,45000,Makan Malam,Sumatera Selatan,Martabak telur dengan kuah kari khas Palembang,4.8,20,950,97
+Nasi Minyak,Gurih/Umami,25000,Sarapan,Sumatera Selatan,Nasi gurih dengan minyak samin,4.2,15,800,89
+Malbi Daging Sapi,Gurih/Umami,55000,Makan Malam,Sumatera Selatan,Daging sapi masak kecap khas Palembang,4.7,40,900,93
+Tempoyak,Asam,20000,Semua,Sumatera Selatan,Sambal fermentasi durian,3.5,10,600,70
+Sambal Lingkung,Pedas,15000,Semua,Bangka Belitung,Sambal khas Bangka Belitung dari ikan cincang dan bumbu.,15,700,80,
+Otak-otak Ikan Tenggiri,Asin,18000,Camilan,Bangka Belitung,Otak-otak dari ikan tenggiri,4.5,15,900,93
+Kue Rengas,Manis,10000,Camilan,Bangka Belitung,Kue goreng berbentuk cincin dari tepung beras dan gula merah.,3.9,15,680,82
+Kemplang,Asin,15000,Camilan,Bangka Belitung,Kerupuk ikan khas Bangka Belitung,4.3,10,850,90
+Kerupuk Getas,Asin,12000,Camilan,Bangka Belitung,Kerupuk dari ikan dan sagu,4.2,10,800,88
+Lempah Kuning,Asam,40000,Makan Siang,Bangka Belitung,Ikan berkuah kuning asam pedas,4.6,30,900,94
+Lempah Darat,Gurih/Umami,30000,Makan Siang,Bangka Belitung,Sayuran atau daging yang dimasak dengan bumbu lempah tanpa santan.,4.2,20,780,87
+Mie Belitung,Gurih/Umami,28000,Makan Siang,Bangka Belitung,Mie kuning dengan kuah kental udang,4.4,20,850,90
+Berego,Gurih/Umami,20000,Sarapan,Bangka Belitung,Mirip lontong dengan kuah santan ikan,4.1,20,750,88
+Rusip Ikan,Asin,15000,Semua,Bangka Belitung,Fermentasi ikan kecil,3.8,,650,75
+Siput Gonggong,Gurih/Umami,30000,Camilan,Kepulauan Riau,Siput laut yang direbus atau ditumis,4,20,700,80
+Otak-otak Gonggong,Asin,20000,Camilan,Kepulauan Riau,Otak-otak dari daging siput gonggong,4.1,20,750,85
+Luti Gendang,Gurih/Umami,10000,Camilan,Kepulauan Riau,Roti goreng isi abon ikan atau ayam,4.2,15,800,90
+Sup Tulang,Gurih/Umami,45000,Makan Malam,Kepulauan Riau,Sup tulang sapi dengan kuah bening,4.6,35,890,93
+Nasi Dagang,Gurih/Umami,25000,Sarapan,Kepulauan Riau,Nasi dengan bumbu kunyit,4,20,700,85
+Laksa Kuah,Gurih/Umami,30000,Makan Siang,Kepulauan Riau,Mi beras dengan kuah santan ikan,4.4,25,850,90
+Laksa Goreng,Gurih/Umami,30000,Makan Siang,Kepulauan Riau,Mi beras yang digoreng dengan bumbu,4.3,20,820,89
+Sop Ikan Batam,Gurih/Umami,40000,Makan Siang,Kepulauan Riau,Sup ikan dengan kuah bening segar,4.7,30,900,94
+Kopi O,Pahit,8000,Semua,Kepulauan Riau,Kopi hitam pekat tanpa gula,4.1,3,800,90
+Teh Tarik,Manis,15000,Semua,Kepulauan Riau,Teh yang ditarik saat disajikan,4.5,5,900,95
+Kopi Susu Hangat,Manis,18000,Semua,Kepulauan Riau,Kopi dengan susu,4.3,5,850,91
+Teh Susu,Manis,15000,Semua,Kepulauan Riau,Teh dengan susu,4.2,5,820,90
+Kopi Tubruk,Pahit,10000,Semua,Kepulauan Riau,Kopi hitam yang diseduh langsung dengan ampasnya.,4.2,3,850,92
+Wedang Jahe Susu Cokelat,Manis,18000,Semua,Kepulauan Riau,Minuman jahe hangat dengan susu dan cokelat,4.5,8,880,92
+Es Kopi Susu Gula Aren,Manis,20000,Semua,Kepulauan Riau,Es kopi susu dengan pemanis gula aren,4.7,5,950,97
+Es Kopi Susu Creamy,Manis,22000,Semua,Kepulauan Riau,Es kopi susu dengan tekstur lebih creamy.,4.6,5,920,95
+Jus Mix Buah,Manis,28000,Semua,Kepulauan Riau,Jus campuran beberapa jenis buah,4.5,8,880,92
+Jus Sayur,Gurih/Umami,25000,Semua,Kepulauan Riau,Jus campuran sayuran,3.8,8,650,75
+Jus Detox,Asam,30000,Semua,Kepulauan Riau,Jus campuran buah dan sayur untuk detoksifikasi.,4,8,700,80
+Jus Green Smoothie,Gurih/Umami,35000,Semua,Kepulauan Riau,Smoothie hijau dari sayuran hijau dan buah,4.2,10,750,85
+Jus Antioksidan,Manis,30000,Semua,Kepulauan Riau,Jus buah beri atau buah kaya antioksidan lainnya.,4.3,8,800,88
+Jus Immunity Booster,Manis,28000,Semua,Kepulauan Riau,Jus buah dan sayur yang dirancang untuk meningkatkan imunitas.,4.2,8,780,87
+Jus Probiotik,Asam,25000,Semua,Kepulauan Riau,Jus dengan tambahan kultur probiotik,4,5,700,80
+Jus Kurma Susu,Manis,30000,Semua,Kepulauan Riau,Jus kurma dengan susu,4.5,5,880,92
+Es Campur Gula Aren,Manis,20000,Semua,Kepulauan Riau,Es campur dengan pemanis gula aren,4.4,8,850,91
+Es Buah Nata de Coco,Manis,22000,Semua,Kepulauan Riau,Es buah dengan tambahan nata de coco,4.5,8,880,92
+Es Kopi Susu Regal,Manis,25000,Semua,Kepulauan Riau,Es kopi susu dengan topping biskuit Regal.,4.7,5,950,97
+Es Cokelat Klasik,Manis,18000,Semua,Kepulauan Riau,Minuman cokelat dingin,4.3,5,850,90
+Es Cokelat Hazelnut,Manis,22000,Semua,Jakarta,Minuman cokelat dingin dengan rasa hazelnut.,4.5,5,880,92
+Es Matcha Latte,Manis,25000,Semua,Jakarta,Minuman teh hijau matcha dingin dengan susu.,4.6,5,900,93
+Es Thai Tea,Manis,18000,Semua,Jakarta,Teh Thailand dingin dengan susu kental manis,4.5,5,920,95
+Es Green Tea Latte,Manis,22000,Semua,Jakarta,Minuman teh hijau dingin dengan susu,4.5,5,880,92
+Cincau Cappuccino,Manis,18000,Semua,Jakarta,Minuman cincau hitam dengan campuran kopi cappuccino.,4.2,5,800,88
+Cincau Jelly,Manis,15000,Semua,Jakarta,Minuman cincau dengan tambahan jelly,4.1,5,780,87
+Sop Durian,Manis,35000,Semua,Jakarta,Sup durian dengan es krim atau buah-buahan,4.8,10,950,97
+Es Pisang Ungu,Manis,22000,Semua,Jakarta,Kreasi es pisang dengan adonan berwarna ungu.,4,15,750,88
+Kue Bugis Mandi,Manis,10000,Camilan,Jakarta,Kue bugis yang disiram kuah santan,4.1,20,780,89
+Kue Bugis Ketan Hitam,Manis,10000,Camilan,Jakarta,Kue bugis dengan bahan dasar ketan hitam,4,20,750,88
+Kue Bolu Pisang,Manis,25000,Camilan,Jakarta,Bolu dengan rasa pisang,4.3,30,850,90
+Kue Bolu Pandan,Manis,25000,Camilan,Jakarta,Bolu dengan aroma dan warna hijau pandan.,4.4,30,880,92
+Kue Bolu Tape,Manis,28000,Camilan,Jakarta,Bolu dengan campuran tape singkong,4.5,35,900,93
+Kue Bolu Cokelat,Manis,28000,Camilan,Jakarta,Bolu dengan rasa cokelat,4.6,30,920,95
+Kue Bolu Keju,Manis,30000,Camilan,Jakarta,Bolu dengan taburan keju,4.7,30,930,96
+Kue Bolu Gulung Keju,Manis,38000,Camilan,Jakarta,Bolu gulung dengan isian dan taburan keju.,4.8,35,950,97
+Kue Bolu Gulung Nanas,Manis,35000,Camilan,Jakarta,Bolu gulung dengan selai nanas sebagai isian.,4.6,30,900,94
+Kue Bolu Gulung Mocha,Manis,35000,Camilan,Jakarta,Bolu gulung dengan rasa mocha,4.5,30,880,92
+Kue Bolu Gulung Vanilla,Manis,32000,Camilan,Jakarta,Bolu gulung dengan rasa vanilla,4.4,25,850,90
+Kue Chiffon Pandan,Manis,35000,Camilan,Jakarta,Kue chiffon dengan aroma dan warna pandan,4.6,40,900,93
+Kue Chiffon Cokelat,Manis,38000,Camilan,Jakarta,Kue chiffon dengan rasa cokelat,4.7,40,920,95
+Kue Chiffon Keju,Manis,40000,Camilan,Jakarta,Kue chiffon dengan taburan keju,4.8,40,930,96
+Kue Lumpur Pandan,Manis,10000,Camilan,Jakarta,Kue lumpur dengan aroma dan warna hijau pandan.,4.2,20,800,89
+Kue Lumpur Cokelat,Manis,12000,Camilan,Jakarta,Kue lumpur dengan rasa cokelat.,4.3,20,820,90
+Kue Pukis Pandan,Manis,8000,Camilan,Jakarta,Kue pukis dengan aroma dan warna hijau pandan.,4.1,15,780,89
+Kue Pukis Cokelat,Manis,9000,Camilan,Jakarta,Kue pukis dengan topping cokelat meses.,4.2,15,800,90
+Kue Pukis Keju,Manis,10000,Camilan,Jakarta,Kue pukis dengan topping keju.,4.3,15,820,91
+Kue Pancong Pandan,Manis,9000,Camilan,Jakarta,Kue pancong dengan aroma dan warna hijau pandan.,4.1,15,750,88
+Kue Apem Mekar,Manis,9000,Camilan,Jawa Tengah,Kue apem yang mekar sempurna saat dikukus.,4,20,700,85
+Kue Apem Gula Merah,Manis,9000,Camilan,Jawa Tengah,Kue apem dengan pemanis gula merah.,4,20,720,87
+Kue Lapis Cokelat,Manis,18000,Camilan,Jawa Tengah,Kue lapis dengan rasa cokelat.,4.2,30,800,89
+Kue Lapis Keju,Manis,20000,Camilan,Jawa Tengah,Kue lapis dengan taburan keju.,4.3,30,820,90
+Kue Lapis Talas Bogor,Manis,35000,Camilan,Jawa Barat,Kue lapis dari talas khas Bogor,4.6,30,900,94
+Asinan Buah,Asam,20000,Semua,Jawa Barat,Berbagai jenis buah segar dengan kuah asam pedas dan kacang.,4.3,10,850,92
+Asinan Sayur,Asam,20000,Semua,Jawa Barat,Berbagai jenis sayuran segar dengan kuah asam pedas dan kacang.,4.2,10,800,90
+Rujak Buah,Pedas,15000,Semua,Jawa Barat,Berbagai jenis buah segar dengan bumbu kacang pedas manis.,4.5,10,900,95
+Rujak Cuka,Asam,15000,Semua,Jawa Barat,Rujak buah dengan kuah cuka,4,10,750,88
+Rujak Juhi,Gurih/Umami,25000,Camilan,Jakarta,Rujak dengan juhi (cumi kering),4.3,15,800,89
+Rujak Serut,Manis,15000,Semua,Kepulauan Riau,Rujak buah yang diserut halus dengan bumbu pedas manis.,4.2,10,780,87
+Rujak Gobet,Manis,15000,Semua,Kepulauan Riau,Rujak buah yang dipotong panjang-panjang,4.1,10,750,86
+Gado-gado Lontong,Gurih/Umami,28000,Makan Siang,Kepulauan Riau,Gado-gado dengan tambahan lontong,4.5,15,900,93
+Ketoprak Telur,Gurih/Umami,25000,Makan Siang,Jakarta,Ketoprak dengan tambahan telur dadar atau ceplok.,4.4,15,880,92
+Tahu Campur Lamongan,Gurih/Umami,30000,Makan Siang,Jawa Timur,Tahu campur khas Lamongan,4.5,25,890,93
+Lontong Balap Telur,Gurih/Umami,25000,Makan Siang,Jawa Timur,Lontong balap dengan tambahan telur rebus.,4.2,15,800,88
+Nasi Krawu Komplit,Gurih/Umami,35000,Makan Siang,Jawa Timur,Nasi krawu dengan lauk lengkap,4.6,15,900,94
+Sego Sambel Ikan Pari,Pedas,28000,Makan Malam,Jawa Timur,Nasi dengan sambal dan ikan pari goreng.,4.3,15,820,89
+Rawon Daging,Gurih/Umami,45000,Makan Malam,Jawa Timur,Rawon dengan potongan daging sapi yang melimpah.,4.7,40,950,97
+Rawon Nguling,Gurih/Umami,50000,Makan Malam,Jawa Timur,Rawon khas Nguling,4.8,45,960,98
+Bakso Malang Komplit,Gurih/Umami,32000,Makan Siang,Jawa Timur,"Bakso Malang dengan semua jenis isian (bakso, gorengan, dll)",4.6,20,920,95
+Cwie Mie Ayam,Gurih/Umami,28000,Makan Siang,Jawa Timur,Cwie Mie dengan topping ayam cincang dan pangsit.,4.4,15,870,92
+Tahu Telor Petis,Gurih/Umami,25000,Makan Siang,Jawa Timur,Tahu telor dengan dominasi bumbu petis,4.2,15,800,88
+Lontong Kupang Komplit,Gurih/Umami,28000,Makan Siang,Jawa Timur,Lontong kupang dengan lentho dan sate kerang.,4.1,20,780,87
+Sate Klopo Daging,Gurih/Umami,40000,Makan Malam,Jawa Timur,Sate klopo dengan daging sapi,4.7,30,900,93
+Nasi Goreng Jancuk Pedas,Pedas,45000,Makan Malam,Jawa Timur,Nasi goreng Jancuk dengan tingkat kepedasan ekstra.,4.9,25,990,99
+Gado-gado Pengantin,Gurih/Umami,35000,Makan Siang,Jakarta,Gado-gado dengan isian lebih lengkap dan penyajian menarik.,4.6,20,900,94
+Tahu Gejrot Pedas,Pedas,18000,Camilan,Jawa Barat,Tahu gejrot dengan tingkat kepedasan yang lebih tinggi.,4.4,10,850,92
+Empal Gentong Asli,Gurih/Umami,45000,Makan Siang,Jawa Barat,Empal Gentong dengan resep asli Cirebon.,4.7,35,920,95
+Mie Koclok Pedas,Pedas,30000,Makan Siang,Jawa Barat,Mie koclok dengan bumbu yang lebih pedas.,4.5,20,850,90
+Cilok Kuah Pedas,Pedas,15000,Camilan,Jawa Barat,Cilok kenyal dengan kuah pedas dan gurih.,4.2,10,850,90
+Cilok Bumbu Kacang,Gurih/Umami,12000,Camilan,Jawa Barat,Cilok kenyal dengan bumbu kacang manis gurih.,4.3,10,880,92
+Cireng Bumbu Rujak,Pedas,10000,Camilan,Jawa Barat,Cireng renyah dengan cocolan bumbu rujak pedas manis.,4,10,800,89
+Cireng Isi Ayam Suwir,Gurih/Umami,12000,Camilan,Jawa Barat,Cireng goreng dengan isian ayam suwir pedas.,4.1,15,820,90
+Seblak Kerupuk Pedas,Pedas,18000,Camilan,Jawa Barat,Seblak dengan dominasi kerupuk,4.5,15,900,93
+Seblak Mi Instan,Pedas,20000,Camilan,Jawa Barat,Seblak dengan tambahan mi instan,4.6,15,920,95
+Baso Aci Kuah,Pedas,20000,Camilan,Jawa Barat,Baso aci dengan kuah pedas,4.7,15,950,97
+Combro Pedas,Pedas,7000,Camilan,Jawa Barat,Singkong parut goreng isi oncom pedas,4,10,750,88
+Misro Gula Merah,Manis,7000,Camilan,Jawa Barat,Singkong parut goreng isi gula merah lumer,4.1,10,780,89
+Colenak,Manis,15000,Camilan,Jawa Barat,Tapai bakar dengan saus kinca gula merah dan parutan kelapa.,4.2,10,800,90
+Peuyeum Sampeu,Manis,10000,Camilan,Jawa Barat,Tapai singkong,4,NaN,700,85
+Dodol Garut,Manis,25000,Camilan,Jawa Barat,Makanan manis kenyal dari beras ketan,4.5,NaN,900,95
+Wajik Bandung,Manis,20000,Camilan,Jawa Barat,Wajik dari ketan dan gula merah,4.1,NaN,780,89
+Surabi Oncom,Gurih/Umami,10000,Camilan,Jawa Barat,Serabi dengan topping oncom pedas,4.2,10,800,90
+Surabi Keju,Manis,15000,Camilan,Jawa Barat,Serabi dengan topping keju,4.3,10,850,91
+Surabi Cokelat,Manis,12000,Camilan,Jawa Barat,Serabi dengan topping meses cokelat.,4.2,10,820,90
+Nasi Tutug Oncom,Gurih/Umami,28000,Sarapan,Jawa Barat,Nasi yang dicampur oncom,4.4,15,870,92
+Nasi Timbel Komplit,Gurih/Umami,35000,Makan Siang,Jawa Barat,Nasi yang dibungkus daun pisang,4.6,20,900,94
+Karedok Leunca,Gurih/Umami,18000,Makan Siang,Jawa Barat,Karedok dengan tambahan leunca (terung kecil),3.8,10,650,80
+Gepuk Daging Sapi,Gurih/Umami,40000,Makan Siang,Jawa Barat,Daging sapi goreng empuk dengan bumbu manis gurih.,4.7,30,920,95
+Tumis Genjer Oncom,Gurih/Umami,20000,Makan Siang,Jawa Barat,Tumisan genjer dengan oncom,4,15,700,85
+Sayur Asem Khas Sunda,Asam,18000,Makan Siang,Jawa Barat,Sayur asem dengan bumbu dan isian khas Sunda.,4.3,20,850,90
+Nasi Liwet Sunda,Gurih/Umami,35000,Makan Malam,Jawa Barat,Nasi liwet dengan lauk pauk Sunda,4.8,60,950,97
+Sambal Dadak,Pedas,10000,Semua,Jawa Barat,Sambal segar yang diulek dadakan.,4.5,5,900,95
+Tahu Sumedang Goreng,Gurih/Umami,15000,Camilan,Jawa Barat,Tahu khas Sumedang yang digoreng,4.3,10,880,92
+Sate Maranggi Purwakarta,Gurih/Umami,40000,Makan Malam,Jawa Barat,Sate daging sapi tanpa bumbu kacang,4.8,25,960,98
+Soto Betawi Daging Sapi,Gurih/Umami,40000,Makan Siang,Jakarta,Soto Betawi dengan potongan daging sapi,4.7,30,950,97
+Soto Betawi Ayam,Gurih/Umami,35000,Makan Siang,Jakarta,Soto Betawi dengan potongan ayam,4.5,30,900,93
+Nasi Uduk Komplit,Gurih/Umami,28000,Sarapan,Jakarta,Nasi uduk dengan lauk lengkap (ayam goreng),4.6,20,920,95
+Kerak Telor Spesial,Gurih/Umami,25000,Camilan,Jakarta,Kerak telor dengan porsi lebih besar dan isian melimpah.,4.7,15,950,97
+Gabus Pucung,Gurih/Umami,45000,Makan Siang,Jakarta,Ikan gabus yang dimasak dengan bumbu kluwek,4,30,700,85
+Sayur Gabus Wijen,Gurih/Umami,40000,Makan Siang,Jakarta,Sayur gabus dengan tambahan wijen,3.9,25,680,82
+Asinan Jakarta,Asam,25000,Makan Siang,Jakarta,Asinan sayur dengan kuah kacang,4.4,15,880,92
+Es Selendang Mayang,Manis,12000,Semua,Jakarta,Minuman segar dari kue kenyal warna-warni dengan santan dan gula merah.,4.1,10,780,89
+Roti Buaya,Manis,70000,Camilan,Jakarta,Roti berbentuk buaya,4,120,600,70
+Kue Semprong,Manis,15000,Camilan,Kepulauan Riau,Kue kering renyah berbentuk gulungan atau lipatan.,4.2,20,800,90
+Kue Cubit Red Velvet,Manis,15000,Camilan,Kepulauan Riau,Kue cubit dengan rasa red velvet.,4.5,10,880,92
+Kue Cubit Taro,Manis,15000,Camilan,Kepulauan Riau,Kue cubit dengan rasa taro (ubi ungu).,4.4,10,850,91
+Es Puter Cokelat,Manis,18000,Semua,Kepulauan Riau,Es puter dengan rasa cokelat,4.3,10,850,90
+Es Puter Kacang Hijau,Manis,18000,Semua,Kepulauan Riau,Es puter dengan rasa kacang hijau,4.2,10,800,89
+Es Krim Gulo Jowo,Manis,20000,Semua,Kepulauan Riau,Es krim dengan pemanis gula jawa,4,10,750,88
+Cokelat Tempe,Manis,25000,Camilan,Kepulauan Riau,Cokelat dengan campuran keripik tempe,3.8,15,650,70
+Keripik Buah Nangka,Manis,20000,Camilan,Kepulauan Riau,Keripik dari buah nangka,4,30,700,85
+Keripik Buah Salak,Manis,20000,Camilan,Kepulauan Riau,Keripik dari buah salak,3.9,30,680,82
+Keripik Buah Apel,Manis,22000,Camilan,Kepulauan Riau,Keripik dari buah apel,4.1,30,750,88
+Keripik Talas,Gurih/Umami,15000,Camilan,Kepulauan Riau,Keripik dari talas,4,20,700,85
+Keripik Ubi Ungu,Manis,15000,Camilan,Kepulauan Riau,Keripik dari ubi ungu,4.1,20,780,89
+Kue Leker,Manis,7000,Camilan,Jawa Tengah,Kue tipis renyah dengan berbagai isian,4.2,5,850,91
+Roti Bakar Keju Susu,Manis,18000,Camilan,Kepulauan Riau,Roti bakar dengan taburan keju dan susu kental manis.,4.5,8,900,93
+Roti Bakar Cokelat Keju,Manis,20000,Camilan,Kepulauan Riau,Roti bakar dengan meses cokelat dan keju parut.,4.6,8,920,95
+Ketela Pohon Goreng,Gurih/Umami,10000,Camilan,Kepulauan Riau,Singkong goreng,4,10,700,85
+Ubi Cilembu Bakar,Manis,15000,Camilan,Jawa Barat,Ubi Cilembu yang dibakar,NaN,20,800,90
+Pisang Bakar Cokelat Keju,Manis,20000,Camilan,Kepulauan Riau,Pisang bakar dengan topping cokelat dan keju.,4.5,10,880,92
+Jagung Bakar Manis Pedas,Pedas,15000,Camilan,Kepulauan Riau,Jagung bakar dengan bumbu manis pedas.,4.3,10,850,91
+Jagung Rebus,Manis,10000,Camilan,Kepulauan Riau,Jagung manis yang direbus.,4,10,700,85
+Tahu Isi Udang,Gurih/Umami,15000,Camilan,Kepulauan Riau,Tahu goreng isi adonan udang,4.2,15,800,89
+Tempe Mendoan,Gurih/Umami,10000,Camilan,Jawa Tengah,Tempe goreng setengah matang,4.4,10,900,93
+Bakwan Jagung,Gurih/Umami,8000,Camilan,Kepulauan Riau,Gorengan dari adonan tepung dan jagung pipil.,4.1,10,780,88
+Bakwan Sayur,Gurih/Umami,8000,Camilan,Kepulauan Riau,Gorengan dari adonan tepung dan sayuran.,4,10,750,87
+Cumi Goreng Tepung,Gurih/Umami,35000,Makan Siang,Kepulauan Riau,Cumi yang digoreng dengan balutan tepung renyah.,4.5,20,900,94
+Udang Goreng Tepung,Gurih/Umami,35000,Makan Siang,Kepulauan Riau,Udang yang digoreng dengan balutan tepung renyah.,4.5,20,900,94
+Ikan Bakar Bumbu Jimbaran,Gurih/Umami,60000,Makan Malam,Bali,Ikan bakar dengan bumbu khas Jimbaran,4.8,30,950,97
+Sate Lilit Ayam,Gurih/Umami,35000,Makan Malam,Bali,Sate lilit dari daging ayam cincang,4.7,25,920,95
+Sate Lilit Ikan,Gurih/Umami,35000,Makan Malam,Bali,Sate lilit dari daging ikan cincang,4.6,25,900,93
+Lawar Ayam,Gurih/Umami,30000,Makan Siang,Bali,Campuran sayuran dan daging ayam cincang dengan bumbu Bali.,4.5,20,880,92
+Lawar Merah,Gurih/Umami,35000,Makan Siang,Bali,Lawar dengan tambahan darah (babi/ayam),3.5,20,600,70
+Tum Ayam,Gurih/Umami,25000,Makan Siang,Bali,Daging ayam cincang dengan bumbu Bali,4.2,25,800,89
+Jukut Ares,Gurih/Umami,20000,Makan Siang,Bali,Sayur berkuah dari batang pisang muda,3.9,20,680,82
+Babi Guling Komplit,Gurih/Umami,60000,Makan Malam,Bali,Babi guling dengan semua bagian tubuh babi,4.9,180,980,99
+Plecing Kangkung,Pedas,18000,Makan Siang,Nusa Tenggara Barat,Kangkung rebus dengan sambal plecing pedas khas Nusa Tenggara Barat.,4.5,10,900,93
+Ayam Taliwang Pedas,Pedas,40000,Makan Malam,Nusa Tenggara Barat,Ayam bakar pedas khas Nusa Tenggara Barat,4.8,30,960,98
+Sate Bulayak,Gurih/Umami,30000,Makan Siang,Nusa Tenggara Barat,Sate daging dengan lontong bulayak dan bumbu khas Nusa Tenggara Barat.,4.6,20,920,95
+Nasi Balap Puyung,Pedas,28000,Makan Siang,Nusa Tenggara Barat,Nasi campur pedas khas Nusa Tenggara Barat,4.7,15,950,97
+Bebek Betutu Gianyar,Pedas,70000,Makan Malam,Bali,Bebek utuh yang dimasak dengan bumbu betutu khas Gianyar,4.9,360,990,99
+Ayam Betutu Khas Gilimanuk,Pedas,60000,Makan Malam,Bali,Ayam utuh yang dimasak dengan bumbu betutu khas Gilimanuk.,4.8,240,970,98
+Sate Plecing,Pedas,30000,Makan Siang,Bali,Sate ayam atau babi dengan bumbu plecing pedas.,4.5,20,880,92
+Nasi Jinggo Ayam Suwir,Gurih/Umami,15000,Sarapan,Bali,Nasi porsi kecil dengan ayam suwir pedas,4.3,10,850,91
+Nasi Jinggo Ikan Tongkol,Gurih/Umami,15000,Sarapan,Bali,Nasi porsi kecil dengan ikan tongkol,4.2,10,820,90
+Tumis Pakis Belacan,Gurih/Umami,20000,Makan Siang,Sumatera Utara,Tumisan pakis dengan terasi (belacan),4,15,700,85
+Gulai Ikan Patin,Gurih/Umami,35000,Makan Siang,Riau,Gulai ikan patin dengan kuah kuning kental.,4.4,25,850,90
+Mie Sagu Kuah,Gurih/Umami,25000,Makan Siang,Riau,Mie sagu dengan kuah kaldu ikan,4.1,20,780,87
+Mie Sagu Goreng,Gurih/Umami,25000,Makan Siang,Riau,Mie sagu yang digoreng dengan aneka topping.,4,20,750,86
+Lempuk Durian,Manis,30000,Camilan,Riau,Dodol dari buah durian,4.5,NaN,880,92
+Bolu Kemojo,Manis,28000,Camilan,Riau,Kue bolu khas Riau dengan aroma pandan,4.3,40,850,90
+Ikan Salai Asap,Gurih/Umami,40000,Makan Malam,Riau,Ikan yang diasap,4.2,NaN,780,89
+Gulai Asam Pedas Ikan Baung,Pedas,45000,Makan Siang,Jambi,Gulai ikan baung dengan kuah asam pedas,4.6,30,900,93
+Tempoyak Ikan Patin,Asam,35000,Makan Siang,Jambi,Ikan patin yang dimasak dengan tempoyak (fermentasi durian).,4.5,25,880,92
+Nasi Gemuk,Gurih/Umami,25000,Sarapan,Jambi,Nasi gurih dengan santan dan rempah,4.1,15,750,88
+Pempek Kapal Selam Kecil,Asin,20000,Camilan,Sumatera Selatan,Pempek kapal selam ukuran kecil,4.5,20,880,92
+Pempek Pastel,Asin,18000,Camilan,Sumatera Selatan,Pempek berbentuk pastel,4.4,15,850,91
+Pindang Ikan Patin,Asam,35000,Makan Siang,Sumatera Selatan,Sup ikan patin dengan kuah asam pedas khas Palembang.,4.7,25,920,95
+Pindang Tulang,Asam,40000,Makan Siang,Sumatera Selatan,Sup tulang sapi dengan kuah asam pedas khas Palembang.,4.6,30,900,94
+Mi Celor,Gurih/Umami,28000,Sarapan,Sumatera Selatan,Mi dengan kuah santan kental,4.5,20,880,92
+Es Kacang Merah,Manis,18000,Semua,Sumatera Selatan,Es serut dengan kacang merah rebus,4.3,10,850,90
+Kue Kojo,Manis,25000,Camilan,Sumatera Selatan,Kue basah dari tepung beras,4.1,30,780,89
+Lempok Durian,Manis,30000,Camilan,Sumatera Selatan,Mirip dodol durian,4.5,NaN,880,92
+Engkak Ketan,Manis,35000,Camilan,Sumatera Selatan,Kue lapis dari tepung ketan,4,40,700,85
+Kue Maksuba,Manis,40000,Camilan,Sumatera Selatan,Kue lapis dengan banyak telur dan gula,4.2,60,750,88
+Kue Delapan Jam,Manis,50000,Camilan,Sumatera Selatan,Kue lapis yang dikukus selama delapan jam,4.5,480,850,90
+Gulai Masin Ikan Kakap,Pedas,50000,Makan Malam,Sumatera Selatan,Gulai ikan kakap dengan rasa asin pedas,4.7,35,920,95
+Tempoyak Udang,Asam,38000,Makan Siang,Sumatera Selatan,Udang yang dimasak dengan tempoyak.,25,880,92,
+Gulai Ikan Baung Tempoyak,Asam,40000,Makan Siang,Jambi,Gulai ikan baung dengan tempoyak,4.6,30,900,93
+Kue Bangkit,Manis,15000,Camilan,Riau,Kue kering dari sagu,3.9,20,680,82
+Bolu Berendam,Manis,28000,Camilan,Riau,Bolu yang direndam dalam sirup gula,4,30,700,85
+Asam Pedas Ikan Pari,Pedas,35000,Makan Siang,Kepulauan Riau,Ikan pari berkuah asam pedas,4.5,25,880,92
+Nasi Lemak Ayam Goreng,Gurih/Umami,28000,Sarapan,Kepulauan Riau,Nasi lemak dengan ayam goreng,4.6,20,920,95
+Nasi Lemak Ikan Bilis,Gurih/Umami,25000,Sarapan,Kepulauan Riau,Nasi lemak dengan ikan bilis (teri),4.4,15,850,90
+Mie Lendir,Gurih/Umami,25000,Makan Siang,Kepulauan Riau,Mie dengan kuah kental mirip lendir,3.8,20,650,75
+Kue Bingka Bakar,Manis,20000,Camilan,Kepulauan Riau,Kue bingka yang dipanggang,4.1,30,780,89
+Lempeng Sagu,Manis,10000,Camilan,Kepulauan Riau,Roti pipih dari sagu,3.9,15,680,82
+Nasi Ayam Hainan,Gurih/Umami,35000,Makan Siang,Kepulauan Riau,Nasi ayam Hainan,4.7,25,930,96
+Kue Batang Buruk,Manis,15000,Camilan,Kepulauan Riau,Kue kering renyah berbentuk batang tipis,3.8,20,650,70
+Talam Sagu,Manis,12000,Camilan,Kepulauan Riau,Kue talam dengan bahan dasar sagu,4,20,700,85
+Kue Putu Piring,Manis,10000,Camilan,Kepulauan Riau,Kue putu yang dikukus di atas piring,4.1,15,750,88
+Cokelat Monggo,Manis,25000,Camilan,DIY Yogyakarta,Cokelat artisanal khas Yogyakarta,4.5,NaN,880,92
+Yangko,Manis,15000,Camilan,DIY Yogyakarta,Makanan kenyal dari tepung ketan,4,NaN,700,85
+Geplak,Manis,18000,Camilan,DIY Yogyakarta,Makanan manis dari kelapa parut dan gula,4.1,NaN,750,88
+Gudeg Kering,Gurih/Umami,35000,Makan Siang,DIY Yogyakarta,Gudeg dengan kuah kering,4.6,180,900,94
+Bakpia Pathok Premium,Manis,30000,Camilan,DIY Yogyakarta,Bakpia dengan kualitas premium,4.7,NaN,950,97
+Wedang Secang,Manis,15000,Semua,DIY Yogyakarta,Minuman hangat dari kayu secang dan rempah,4,5,700,85
+Jadah Tempe,Gurih/Umami,15000,Camilan,DIY Yogyakarta,Ketan uli dengan tempe bacem,4.3,10,850,90
+Sate Kere,Gurih/Umami,25000,Makan Siang,DIY Yogyakarta,Sate gajih sapi atau jeroan dengan bumbu khas.,4.2,20,800,89
+Jenang Grendul,Manis,10000,Camilan,Jawa Tengah,Jenang dengan bulatan kenyal dari tepung beras,4.1,15,750,88
+Lumpia Semarang Basah,Gurih/Umami,20000,Camilan,Jawa Tengah,Lumpia dengan isian rebung dan udang,4.3,15,850,90
+Tahu Petis Semarang,Gurih/Umami,15000,Camilan,Jawa Tengah,Tahu goreng dengan cocolan petis kental khas Semarang.,4.4,10,880,92
+Wingko Babat,Manis,18000,Camilan,Jawa Tengah,Kue dari kelapa parut dan gula,4,20,700,85
+Bandeng Presto,Gurih/Umami,35000,Makan Siang,Jawa Tengah,Ikan bandeng yang dimasak presto,4.5,60,900,93
+Nasi Grombyang,Gurih/Umami,30000,Makan Siang,Jawa Tengah,Nasi dengan kuah soto daging,4.2,25,800,89
+Lontong Dekem,Gurih/Umami,25000,Makan Siang,Jawa Tengah,Lontong dengan kuah santan kental,4.1,20,750,88
+Sate Blengong,Gurih/Umami,35000,Makan Malam,Jawa Tengah,Sate dari daging blengong (itik entok),4.3,25,820,90
+Sate Kerbau Kudus,Gurih/Umami,40000,Makan Malam,Jawa Tengah,Sate daging kerbau dengan bumbu khas Kudus.,4.6,30,900,94
+Nasi Gandul Pati,Gurih/Umami,30000,Makan Siang,Jawa Tengah,Nasi dengan kuah santan kental dan aneka lauk,4.5,20,880,92
+Tahu Campur Magelang,Gurih/Umami,25000,Makan Siang,Jawa Tengah,Tahu campur dengan bumbu dan isian khas Magelang.,4,15,750,88
+Mangut Lele,Pedas,28000,Makan Malam,Jawa Tengah,Ikan lele asap yang dimasak kuah santan pedas.,4.4,20,850,90
+Nasi Pecel Madiun,Gurih/Umami,22000,Sarapan,Jawa Timur,Nasi pecel dengan bumbu kacang khas Madiun,4.5,10,900,93
+Sate Ponorogo,Gurih/Umami,35000,Makan Malam,Jawa Timur,Sate ayam dengan bumbu kacang khas Ponorogo.,4.7,25,950,97
+Pecel Lele Lamongan,Gurih/Umami,25000,Makan Malam,Jawa Timur,Ikan lele goreng dengan sambal pecel,4.6,15,920,95
+Tahu Tek-tek,Gurih/Umami,20000,Makan Siang,Jawa Timur,Tahu goreng,4.3,15,850,90
+Rujak Cingur Komplit,Gurih/Umami,35000,Makan Siang,Jawa Timur,Rujak cingur dengan isian lengkap (daging cingur,4.7,20,930,96
+Sate Kelapa,Gurih/Umami,30000,Makan Malam,Jawa Timur,Sate daging dengan parutan kelapa,4.5,25,880,92
+Lontong Balap Komplit,Gurih/Umami,28000,Makan Siang,Jawa Timur,Lontong balap dengan semua topping (lentho,4.3,20,850,90
+Nasi Campur Bali,Gurih/Umami,35000,Makan Siang,Bali,Nasi dengan aneka lauk pauk khas Bali.,4.7,20,950,97
+Tipat Kuah,Gurih/Umami,25000,Makan Siang,Bali,Ketupat dengan kuah santan dan sayuran,4,20,700,85
+Jukut undis,Gurih/Umami,20000,Makan Siang,Bali,Sayur berkuah dari kacang undis,3.9,15,680,82
+Nasi Goreng,Gurih/Umami,32000,Makan Malam,Jakarta,Hidangan nasi yang digoreng dengan bumbu khas,4.7,20,950,98
+Mi Goreng,Gurih/Umami,28000,Makan Siang,Jawa Tengah,Mi yang ditumis dengan aneka sayuran,4.5,25,890,93
+Sate Ayam,Gurih/Umami,35000,Makan Malam,Jawa Timur,Potongan daging ayam yang ditusuk dan dibakar,4.8,30,920,96
+Sate Kambing,Gurih/Umami,45000,Makan Malam,Jawa Tengah,Potongan daging kambing yang dibakar,4.6,35,880,90
+Rendang,Gurih/Umami,60000,Semua,Sumatera Barat,Daging sapi yang dimasak perlahan dalam santan dan rempah-rempah,4.9,60,999,100
+Soto Ayam,Gurih/Umami,29000,Makan Siang,Jawa Timur,Sup ayam berkuah bening kekuningan dengan suwiran ayam,4.4,25,870,91
+Soto Daging,Gurih/Umami,38000,Makan Siang,Jawa Tengah,Sup dengan irisan daging sapi,4.5,30,850,89
+Bakso,Gurih/Umami,25000,Semua,Jawa Timur,Bola-bola daging lembut dalam kuah kaldu yang gurih,4.3,20,910,94
+Mie Ayam,Gurih/Umami,22000,Makan Siang,Jakarta,Mi rebus dengan topping ayam cincang gurih,4.2,15,840,92
+Gado-gado,Gurih/Umami,27000,Makan Siang,Jakarta,Salad sayuran rebus dengan lontong,4.4,20,800,88
+Pecel,Gurih/Umami,20000,Sarapan,Jawa Timur,Sayuran rebus dengan bumbu kacang pedas,4,15,750,85
+Rawon,Gurih/Umami,42000,Makan Malam,Jawa Timur,Sup daging sapi berkuah hitam pekat dari kluwek,4.7,45,900,93
+Konro,Gurih/Umami,55000,Makan Malam,Sulawesi Selatan,Iga sapi bakar atau rebus dengan kuah rempah kental,4.8,50,930,97
+Coto Makassar,Gurih/Umami,40000,Sarapan,Sulawesi Selatan,Sup daging sapi berkuah kental dengan bumbu yang kuat,4.6,35,860,90
+Pempek,Asin,20000,Camilan,Sumatera Selatan,Kudapan dari ikan dan tepung sagu,4.5,25,940,95
+Tekwan,Asin,28000,Makan Siang,Sumatera Selatan,Sup dengan bola-bola ikan,4.2,30,810,88
+Model,Asin,26000,Makan Siang,Sumatera Selatan,Mirip pempek dengan tahu dan mi,4.1,28,780,86
+Otak-otak,Asin,18000,Camilan,Jakarta,Olahan ikan cincang yang dibungkus daun pisang dan dibakar,4,20,720,85
+Martabak Manis,Manis,30000,Semua,Jawa Barat,Kue tebal dengan tekstur empuk,4.6,15,960,99
+Martabak Telur,Gurih/Umami,38000,Makan Malam,Jakarta,Adonan kulit tipis diisi campuran telur,4.7,25,900,94
+Ikan Bakar,Gurih/Umami,48000,Makan Malam,Bali,Berbagai jenis ikan segar yang dibumbui dan dibakar sempurna,4.7,35,910,95
+Ayam Bakar,Gurih/Umami,35000,Makan Siang,Jawa Barat,Potongan ayam yang dibumbui rempah dan dibakar hingga matang merata.,4.6,30,890,93
+Bebek Bakar,Gurih/Umami,40000,Makan Malam,Jawa Timur,Bebek yang dibumbui dan dibakar hingga empuk dengan aroma khas.,4.5,40,850,90
+Udang Bakar,Gurih/Umami,42000,Makan Malam,Sulawesi Selatan,Udang segar yang dibakar dengan bumbu pedas manis,4.7,25,880,92
+Kepiting Saus Padang,Pedas,85000,Makan Malam,Jakarta,Kepiting segar dengan saus pedas manis khas Padang,4.8,50,960,98
+Cumi Saus Tiram,Gurih/Umami,45000,Makan Siang,Jakarta,Potongan cumi yang ditumis dengan saus tiram gurih,4.4,20,840,89
+Gurame Bakar,Gurih/Umami,70000,Makan Malam,Jawa Barat,Ikan gurame besar yang dibakar dengan bumbu manis pedas,4.7,40,920,94
+Lele Goreng,Gurih/Umami,25000,Makan Siang,Jawa Timur,Ikan lele yang digoreng garing,4,15,780,86
+Nila Goreng,Gurih/Umami,30000,Makan Siang,Jawa Tengah,Ikan nila yang digoreng hingga renyah,4.1,18,800,87
+Ayam Goreng,Gurih/Umami,28000,Makan Siang,Jakarta,Potongan ayam yang digoreng hingga garing di luar dan lembut di dalam.,4.3,20,900,95
+Bebek Goreng,Gurih/Umami,38000,Makan Siang,Jawa Timur,Bebek yang digoreng hingga renyah dengan bumbu khas,4.4,25,860,91
+Tempe Mendoan,Gurih/Umami,15000,Camilan,Jawa Tengah,Tempe goreng tipis yang dibalut adonan tepung,4.2,10,750,90
+Tahu Isi,Gurih/Umami,12000,Camilan,Jawa Barat,Tahu goreng yang diisi dengan sayuran dan kadang daging cincang,4,15,,88
+Bakwan,Gurih/Umami,8000,Camilan,Jakarta,Gorengan sayuran dengan adonan tepung,3.9,10,720,85
+Cireng,Asin,10000,Camilan,Jawa Barat,Aci digoreng,3.8,,650,80
+Cilok,Asin,8000,Camilan,Jawa Barat,Aci dicolok,3.7,15,700,82
+Cimol,Asin,8000,Camilan,Jawa Barat,Aci digemol,3.6,10,680,79
+Misro,Manis,7000,Camilan,Jawa Barat,Kue singkong parut dengan isian gula merah,3.9,15,600,83
+Combro,Asin,7000,Camilan,Jawa Barat,Oncom di jero,3.8,15,620,81
+Getuk,Manis,10000,Camilan,Jawa Tengah,Olahan singkong kukus yang dihaluskan,4,20,700,85
+Klepon,Manis,8000,Camilan,Jawa Tengah,Bola ketan hijau dengan isian gula merah cair,4.4,15,780,92
+Cenil,Manis,7000,Camilan,Jawa Barat,Kue kenyal berwarna-warni dari tepung kanji,4,10,680,85
+Lupis,Manis,9000,Camilan,Jawa Timur,Kue ketan berbentuk segitiga atau silinder,4.2,20,720,88
+Nagasari,Manis,10000,Camilan,Jawa Tengah,Kue pisang kukus yang dibungkus daun pisang,4.1,25,700,89
+Dadar Gulung,Manis,9000,Camilan,Jawa Barat,Dadar tipis berwarna hijau digulung dengan isian kelapa parut dan gula merah.,4.3,15,750,90
+Kue Putu,Manis,8000,Camilan,Jawa Timur,Kue kukus berwarna hijau dengan isian gula merah,4.2,10,730,87
+Onde-onde,Manis,12000,Camilan,Jakarta,Bola ketan berisi kacang hijau,4.4,20,800,91
+Bolu Kukus,Manis,15000,Camilan,Jawa Barat,Bolu yang dikukus,4.1,25,760,90
+Serabi,Manis,10000,Sarapan,Jawa Barat,Pancake beras tradisional,4.3,15,700,86
+Apem,Manis,9000,Camilan,Jawa Tengah,Kue tepung beras yang dikukus,,15,650,84
+Wingko Babat,Manis,20000,Camilan,Jawa Timur,Kue kelapa panggang khas Babat,4.5,20,800,90
+Brem,Manis,18000,Camilan,Jawa Timur,Makanan fermentasi dari beras ketan,3.8,,550,78
+Jenang Kudus,Manis,25000,Camilan,Jawa Tengah,Dodol khas Kudus yang lembut dan legit,4.6,40,850,93
+Dodol,Manis,22000,Camilan,Jawa Barat,Kudapan manis kenyal dari beras ketan dan gula,4.3,35,820,91
+Wajik,Manis,17000,Camilan,Jawa Tengah,Kue ketan manis dengan gula merah dan santan,4,25,700,87
+Jadah,Gurih/Umami,15000,Camilan,DIY Yogyakarta,Olahan ketan pulen yang dikukus dan ditumbuk,4.1,20,720,86
+Intip,Asin,10000,Camilan,Jawa Tengah,Kerak nasi yang dikeringkan dan digoreng,3.9,15,680,80
+Kerupuk,Asin,5000,Semua,Kepulauan Riau,Makanan ringan renyah pelengkap hidangan,3.5,5,990,100
+Keripik,Manis,12000,Camilan,Kepulauan Riau,Potongan tipis bahan (buah/sayur) yang digoreng hingga renyah.,4,10,800,92
+Emping,Asin,15000,Camilan,Jawa Tengah,Keripik renyah dari biji melinjo,4.1,10,750,88
+Rempeyek,Gurih/Umami,10000,Camilan,Jawa Tengah,Keripik renyah dari tepung beras dengan isian kacang atau rebon,4.2,15,790,88
+Peyek Kacang,Gurih/Umami,12000,Camilan,Jawa Timur,Rempeyek dengan isian kacang tanah utuh,4.3,15,810,90
+Peyek Udang,Gurih/Umami,15000,Camilan,Jawa Barat,Rempeyek dengan taburan udang rebon,4.4,18,830,91
+Kering Tempe,Gurih/Umami,20000,Semua,Jawa Tengah,Tempe yang digoreng kering dan dibumbui pedas manis,4.5,25,880,94
+Sambal Goreng Kentang,Pedas,25000,Semua,Jakarta,Kentang goreng yang dimasak dengan sambal pedas,4.6,30,900,95
+Sayur Asem,Asam,18000,Makan Siang,Jawa Barat,Sup sayuran berkuah asam segar dengan kacang tanah,4.1,20,780,89
+Sayur Lodeh,Gurih/Umami,20000,Makan Siang,Jawa Timur,Sayuran berkuah santan dengan tempe,4.2,25,810,90
+Tumis Kangkung,Gurih/Umami,17000,Makan Siang,Kepulauan Riau,Kangkung yang ditumis cepat dengan bawang putih dan cabai,4,10,750,87
+Cah Kangkung,Gurih/Umami,18000,Makan Siang,Kepulauan Riau,Mirip tumis kangkung,4.1,12,760,88
+Capcay,Gurih/Umami,30000,Semua,Jakarta,Tumisan berbagai macam sayuran dengan potongan daging atau seafood.,4.5,25,870,93
+Fuyunghai,Gurih/Umami,35000,Makan Malam,Jakarta,Telur dadar tebal dengan campuran sayuran dan daging,4.6,30,890,92
+Nasi Campur,Gurih/Umami,32000,Makan Siang,Bali,Nasi dengan aneka lauk pauk,4.7,15,920,96
+Nasi Rames,Gurih/Umami,28000,Makan Siang,Jawa Tengah,Nasi dengan lauk pauk yang bervariasi,4.3,10,800,88
+Nasi Pecel,Gurih/Umami,20000,Sarapan,Jawa Timur,Nasi dengan sayuran rebus yang disiram bumbu kacang pedas,4.1,15,770,87
+Nasi Lengko,Gurih/Umami,22000,Sarapan,Jawa Barat,Nasi dengan tahu,4.2,15,760,86
+Mie Kocok,Gurih/Umami,30000,Makan Siang,Jawa Barat,Mi kuning dengan irisan kikil,4.4,20,850,90
+Sate Lilit,Gurih/Umami,40000,Makan Malam,Bali,Daging cincang (ayam/ikan) yang dililitkan pada batang serai dan dibakar.,4.8,30,930,95
+Ayam Betutu,Pedas,55000,Makan Malam,Bali,Ayam utuh yang dibumbui rempah pedas dan dipanggang dalam daun pisang.,4.9,55,970,98
+Lawar,Gurih/Umami,35000,Makan Siang,Bali,Campuran sayuran,4.6,25,880,92
+Plecing Kangkung,Pedas,17000,Makan Siang,Nusa Tenggara Barat,Kangkung rebus yang disajikan dengan sambal terasi pedas khas Nusa Tenggara Barat.,4,10,750,86
+Bubur Ayam,Gurih/Umami,15000,Sarapan,Jakarta,Bubur nasi lembut dengan suwiran ayam,4.2,15,850,93
+Bubur Kacang Hijau,Manis,12000,Semua,Jawa Tengah,Bubur dari kacang hijau yang dimasak dengan santan dan gula merah.,4.1,20,780,89
+Bubur Sumsum,Manis,10000,Camilan,Jawa Barat,Bubur lembut dari tepung beras dengan siraman saus gula merah dan santan.,4,15,720,87
+Kopi Joss,Manis,18000,Semua,DIY Yogyakarta,Kopi arang khas Yogyakarta,4.5,10,850,92
+Kopi Luwak,Gurih/Umami,95000,Semua,Sumatera,Kopi fermentasi alami oleh luwak,4.9,5,990,99
+Teh Tarik,Manis,15000,Semua,Sumatera Utara,Teh yang ditarik hingga berbusa,4.3,8,830,91
+Bir Pletok,Manis,15000,Semua,Jakarta,Minuman tradisional Betawi tanpa alkohol,4.1,10,750,88
+Tamarind Drink,Asam,12000,Semua,Kepulauan Riau,Minuman asam jawa yang segar,4,5,700,85
+Jamu Kunyit Asam,Asam,10000,Semua,Jawa Tengah,Minuman herbal tradisional dari kunyit dan asam jawa,4.2,10,800,90
+Jamu Beras Kencur,Asin,10000,Semua,Jawa Tengah,Minuman herbal dari beras dan kencur,4.1,10,780,89
+Kunyit Asam,Asam,10000,Semua,Jawa Tengah,Varian lain dari jamu kunyit asam,4.2,10,790,90
+Beras Kencur,Asin,10000,Semua,Jawa Tengah,Varian lain dari jamu beras kencur,4.1,10,770,89
+Temulawak,Asin,10000,Semua,Jawa Tengah,Minuman herbal dari temulawak,4,8,700,85
+Sinom,Asam,10000,Semua,Jawa Timur,Minuman segar dari daun asam muda,4.1,10,720,86
+Wedang Uwuh,Manis,15000,Semua,DIY Yogyakarta,Minuman rempah tradisional dengan aneka dedaunan dan akar,4.3,15,850,92
+Sop Saudara,Gurih/Umami,45000,Makan Siang,Sulawesi Selatan,Sup daging sapi khas Makassar dengan kuah kaya rempah,4.7,40,900,94
+Mie Cakalang,Gurih/Umami,35000,Makan Siang,Sulawesi Utara,Mi dengan potongan ikan cakalang asap dan kuah kaldu ikan yang gurih.,4.4,25,830,89
+Bubur Manado,Gurih/Umami,20000,Sarapan,Sulawesi Utara,Bubur nasi yang dicampur dengan berbagai sayuran,4.2,20,780,90
+Ayam Rica-rica,Pedas,38000,Makan Siang,Sulawesi Utara,Ayam yang dimasak dengan bumbu pedas khas Manado,4.6,35,900,95
+Kakap Woku,Pedas,60000,Makan Malam,Sulawesi Utara,Ikan kakap dengan bumbu woku pedas khas Manado,4.7,40,920,96
+Cakalang Fufu,Gurih/Umami,45000,Makan Malam,Sulawesi Utara,Ikan cakalang yang diasap,4.5,30,880,90
+Paniki,Pedas,75000,Makan Malam,Sulawesi Utara,Olahan daging kelelawar dengan bumbu pedas,3.5,50,600,70
+Klappertaart,Manis,30000,Camilan,Sulawesi Utara,Kue kelapa panggang khas Manado,4.4,45,850,92
+Barongko,Manis,12000,Camilan,Sulawesi Selatan,Kue pisang kukus yang dibungkus daun pisang,4,25,700,85
+Cucur,Manis,8000,Camilan,Kepulauan Riau,Kue goreng berbentuk bulat dengan pinggiran berserat,3.8,15,680,82
+Panada,Gurih/Umami,10000,Camilan,Sulawesi Utara,Roti goreng isi ikan cakalang pedas,4.2,20,750,88
+Bika Ambon,Manis,30000,Camilan,Sumatera Utara,Kue bersarang khas Medan,4.5,40,870,91
+Bolu Meranti,Manis,40000,Camilan,Sumatera Utara,Bolu gulung khas Medan,4.6,30,910,93
+Soto Medan,Gurih/Umami,38000,Makan Siang,Sumatera Utara,Soto dengan kuah santan kuning kental,4.4,35,860,90
+Arsik Ikan Mas,Pedas,45000,Makan Malam,Sumatera Utara,Ikan mas yang dimasak dengan bumbu kuning pedas khas Batak,4.7,45,900,92
+Babi Panggang Karo,Gurih/Umami,70000,Makan Malam,Sumatera Utara,Daging babi panggang khas Karo,3.9,50,680,75
+Mi Gomak,Gurih/Umami,25000,Makan Siang,Sumatera Utara,Mi lidi dengan kuah kari kental,4.2,25,780,87
+Saksang,Pedas,60000,Makan Malam,Sumatera Utara,Olahan daging babi atau anjing dengan darah,3,40,500,65
+Lemang,Gurih/Umami,20000,Semua,Sumatera Utara,Ketan yang dimasak dalam bambu,4,60,750,88
+Anyang,Asam,18000,Makan Siang,Sumatera Utara,Salad sayuran khas Mandailing dengan bumbu kelapa sangrai dan asam.,4.1,20,690,80
+Balado Terong,Pedas,20000,Makan Siang,Sumatera Barat,Terong yang digoreng dan dimasak dengan sambal balado pedas.,4,15,750,87
+Paru Goreng,Gurih/Umami,30000,Semua,Sumatera Barat,Paru sapi yang digoreng hingga garing,4.2,20,800,89
+Nasi Kapau,Gurih/Umami,35000,Makan Siang,Sumatera Barat,Nasi dengan aneka lauk pauk khas Kapau,4.6,10,890,95
+Sate Padang,Pedas,35000,Makan Malam,Sumatera Barat,Sate lidah sapi dengan kuah kuning kental pedas,4.7,30,920,96
+Lamang Tapai,Manis,25000,Camilan,Sumatera Barat,Ketan bakar dalam bambu yang disajikan dengan tapai ketan hitam.,4.3,60,700,85
+Kacang Padi,Asin,10000,Camilan,Sumatera Barat,Kacang tanah yang digoreng dengan tepung,3.8,10,650,80
+Keripik Balado,Pedas,15000,Camilan,Sumatera Barat,Keripik singkong yang dibumbui pedas balado,4.2,15,800,90
+Bubur Kampiun,Manis,20000,Sarapan,Sumatera Barat,Bubur campuran dari berbagai jenis bubur manis dan kolak.,4.5,20,850,92
+Dadiah,Asam,25000,Sarapan,Sumatera Barat,Fermentasi susu kerbau tradisional,3.7,,580,75
+Kue Talam,Manis,9000,Camilan,Kepulauan Riau,Kue tradisional dari tepung beras dan santan,4,20,700,88
+Bika Salak,Manis,15000,Camilan,Sumatera Barat,Kue bika dengan aroma dan rasa buah salak,4.1,30,680,80
+Kue Bingka,Manis,18000,Camilan,Kalimantan Selatan,Kue panggang dengan bahan dasar tepung terigu,4.3,40,750,89
+Lempok Durian,Manis,30000,Camilan,Sumatera Selatan,Dodol dari buah durian asli,4.6,50,890,93
+Tempoyak,Asam,20000,Semua,Sumatera Selatan,Fermentasi daging durian,3.5,10,600,70
+Otak-otak Palembang,Asin,15000,Camilan,Sumatera Selatan,Olahan ikan panggang yang dibungkus daun pisang,4.2,20,800,90
+Pindang Patin,Asam,35000,Makan Siang,Sumatera Selatan,Ikan patin berkuah asam pedas segar khas Palembang.,4.5,30,870,92
+Kue Kojo,Manis,30000,Camilan,Sumatera Selatan,Kue khas Palembang berwarna hijau dengan aroma pandan dan santan.,4.5,50,850,90
+Engkak Ketan,Manis,35000,Camilan,Sumatera Selatan,Kue lapis dari tepung ketan yang lembut dan manis,4.6,55,880,92
+Pempek Kapal Selam,Asin,25000,Camilan,Sumatera Selatan,Pempek besar berisi telur ayam utuh,4.8,30,970,98
+Pempek Lenjer,Asin,20000,Camilan,Sumatera Selatan,Pempek berbentuk lonjong panjang,4.6,25,950,97
+Pempek Adaan,Asin,20000,Camilan,Sumatera Selatan,Pempek berbentuk bulat kecil,4.5,20,930,96
+Pempek Keriting,Asin,20000,Camilan,Sumatera Selatan,Pempek berbentuk keriting,4.4,25,900,94
+Pempek Panggang,Asin,20000,Camilan,Sumatera Selatan,Pempek yang dipanggang langsung,4.3,20,880,93
+Pempek Tunu,Asin,20000,Camilan,Sumatera Selatan,Mirip pempek panggang,4.2,20,850,92
+Celimpungan,Gurih/Umami,25000,Makan Siang,Sumatera Selatan,Mirip pempek namun berkuah santan kental,4,25,790,88
+Burgo,Gurih/Umami,20000,Sarapan,Sumatera Selatan,Dadar gulung tepung beras yang disiram kuah santan ikan,3.9,30,750,87
+Lakso,Gurih/Umami,22000,Sarapan,Sumatera Selatan,Mi putih tebal berkuah santan ikan,4,25,770,89
+Mi Celor,Gurih/Umami,30000,Makan Siang,Sumatera Selatan,Mi tebal dengan kuah santan udang kental dan tauge,4.5,20,880,93
+Martabak Har,Gurih/Umami,40000,Makan Malam,Sumatera Selatan,Martabak telur dengan kuah kari khas Palembang,4.6,30,910,94
+Kemplang,Asin,15000,Camilan,Sumatera Selatan,Kerupuk ikan khas Palembang yang dipanggang,4,15,800,90
+Kerupuk Kulit,Asin,20000,Camilan,Kepulauan Riau,Kerupuk dari kulit sapi atau kerbau yang digoreng,4.1,10,850,95
+Kerupuk Ikan,Asin,15000,Camilan,Kepulauan Riau,Kerupuk dari adonan ikan dan tepung,4,10,820,93
+Cuko Pempek,Asam,5000,Semua,Sumatera Selatan,Saus cuka asam pedas yang wajib ada saat menyantap pempek.,4.8,5,980,100
+Brengkes Tempoyak,Asam,30000,Makan Siang,Sumatera Selatan,Olahan ikan patin yang dibungkus daun pisang dengan tempoyak (fermentasi durian)..,4.3,35,750,85
+Kue Putri Salju,Manis,30000,Camilan,Kepulauan Riau,Kue kering dengan taburan gula halus,4.6,25,920,96
+Kue Kastengel,Asin,35000,Camilan,Kepulauan Riau,Kue kering keju yang renyah dan gurih,4.7,25,940,97
+Kue Lidah Kucing,Manis,28000,Camilan,Kepulauan Riau,Kue kering tipis berbentuk lidah,4.5,20,880,93
+Kue Sagu Keju,Gurih/Umami,30000,Camilan,Kepulauan Riau,Kue kering dari tepung sagu dan keju,4.6,25,900,94
+Kue Akar Kelapa,Manis,20000,Camilan,Jakarta,Kue kering renyah berbentuk seperti akar kelapa,4.2,15,750,88
+Kue Kacang,Manis,25000,Camilan,Kepulauan Riau,Kue kering dari adonan kacang tanah,4.3,20,800,90
+Kue Bolu,Manis,25000,Camilan,Kepulauan Riau,Kue panggang bertekstur lembut dan mengembang,4.4,30,850,92
+Brownies Kukus,Manis,35000,Camilan,Jawa Barat,Kue cokelat kukus yang lembut dan legit,4.7,40,910,95
+Bolu Pandan,Manis,28000,Camilan,Kepulauan Riau,Bolu dengan aroma dan warna hijau alami dari pandan,4.5,35,870,93
+Bolu Gulung,Manis,30000,Camilan,Kepulauan Riau,Bolu tipis yang digulung dengan isian krim atau selai,4.6,30,890,94
+Lapis Legit,Manis,90000,Camilan,Jakarta,Kue lapis khas yang dibuat dari banyak lapisan tipis adonan,4.9,60,980,99
+Lapis Surabaya,Manis,75000,Camilan,Jawa Timur,Kue lapis tiga warna dengan lapisan cokelat dan kuning,4.8,50,950,97
+Spikoe,Manis,70000,Camilan,Jawa Timur,Kue lapis tradisional Surabaya,4.7,50,930,96
+Bingka Kentang,Manis,20000,Camilan,Kalimantan Selatan,Kue panggang dari kentang dan santan,4.2,30,780,89
+Carabikang,Manis,9000,Camilan,Jawa Tengah,Kue tradisional berwarna-warni yang mekar seperti bunga.,4,15,700,85
+Sego Sambel,Pedas,20000,Makan Malam,Jawa Timur,Nasi dengan aneka lauk goreng (ayam/tahu/tempe) dan sambal pedas ulek.,4.2,15,780,87
+Rawon Setan,Pedas,50000,Makan Malam,Jawa Timur,Rawon dengan sensasi pedas yang luar biasa,4.8,40,950,96
+Bakso Malang,Gurih/Umami,27000,Makan Siang,Jawa Timur,Bakso dengan tambahan siomay,4.5,20,900,94
+Cwie Mie Malang,Gurih/Umami,28000,Makan Siang,Jawa Timur,Mi ayam khas Malang dengan topping pangsit goreng dan acar,4.3,15,870,92
+Tahu Telor,Gurih/Umami,22000,Makan Siang,Jawa Timur,Tahu goreng dan telur dadar yang disiram bumbu kacang petis.,4.1,15,800,88
+Lontong Kupang,Gurih/Umami,25000,Makan Siang,Jawa Timur,Lontong dengan kupang (kerang kecil) dan lentho,4,20,780,85
+Sate Klopo,Gurih/Umami,35000,Makan Malam,Jawa Timur,Sate daging sapi yang dibumbui parutan kelapa,4.6,30,890,93
+Nasi Goreng Jancuk,Pedas,40000,Makan Malam,Jawa Timur,Nasi goreng super pedas dengan porsi jumbo,4.9,25,980,97
+Gado-gado Siram,Gurih/Umami,28000,Makan Siang,Jakarta,Gado-gado dengan bumbu kacang yang disiram langsung,4.4,15,850,90
+Tahu Gejrot,Pedas,15000,Camilan,Jawa Barat,Tahu goreng dipotong kecil,4.2,10,800,92
+Empal Gentong Cirebon,Gurih/Umami,40000,Makan Siang,Jawa Barat,Varian Empal Gentong dari Cirebon,4.6,35,910,95
+Sate Kalong,Gurih/Umami,30000,Makan Malam,Jawa Barat,Sate daging sapi yang diolah dengan bumbu khas,4.3,25,780,88
+Mie Koclok,Gurih/Umami,28000,Makan Siang,Jawa Barat,Mi dengan kuah santan kental,4.4,20,820,90
+Nasi Lengko Cirebon,Gurih/Umami,22000,Sarapan,Jawa Barat,Varian Nasi Lengko khas Cirebon,4.2,15,760,87
+Es Gombyang,Manis,15000,Semua,Jawa Barat,Es serut dengan cendol,4,10,700,85
+Kerupuk Melarat,Asin,8000,Camilan,Jawa Barat,Kerupuk yang digoreng tanpa minyak,3.8,5,650,80
+Nasi Tutug Oncom,Gurih/Umami,25000,Makan Siang,Jawa Barat,Nasi yang dicampur dengan oncom bakar,4.5,15,880,93
+Surabi Bandung,Manis,12000,Camilan,Jawa Barat,Pancake beras tradisional,4.3,15,820,91
+Lotek,Pedas,22000,Makan Siang,Jawa Barat,Salad sayuran rebus dengan bumbu kacang pedas,4.2,15,790,88
+Batagor,Gurih/Umami,20000,Camilan,Jawa Barat,Bakso tahu goreng,4.5,20,910,95
+Siomay Bandung,Gurih/Umami,20000,Camilan,Jawa Barat,Siomay ikan kukus dengan kentang,4.4,20,900,94
+Cuanki,Gurih/Umami,18000,Camilan,Jawa Barat,Bakso tahu aci kuah,4,10,750,87
+Seblak,Pedas,15000,Camilan,Jawa Barat,Kerupuk basah yang dimasak dengan bumbu pedas,4.6,15,930,96
+Cilor,Asin,10000,Camilan,Jawa Barat,Aci digoreng dicolok,3.8,10,680,80
